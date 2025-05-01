@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-group-17/",
+    "build": "vite build --base=/118_html-css_Aleksandrovich-Anastasia/",
     "preview": "vite preview"
   },
   "devDependencies": {
